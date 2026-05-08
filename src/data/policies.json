@@ -1,0 +1,1796 @@
+[
+  {
+    "id": "pm-jan-dhan-yojana",
+    "title": "PM Jan Dhan Yojana",
+    "department": "Finance",
+    "one_liner": "A simple bank account for more families so wages and benefits can land safely.",
+    "what": "A national push to open no-frills bank accounts, with RuPay cards and a path to insurance and small credit for people who were outside banking.",
+    "why": "Many households had no account, so cash was risky and government help was harder to send in a clean, trackable way.",
+    "example": "Your cousin opens an account at a camp; a scholarship later credits straight in instead of a long queue for cash.",
+    "pros": ["More people join formal banking", "Direct transfers (DBT) become possible", "Safer than keeping large cash at home"],
+    "cons": ["Branches can be crowded", "Scams target new users online", "Some accounts stay unused without follow-up"],
+    "before": "Cash-only habits; benefits sometimes delayed or harder to prove.",
+    "after": "Named accounts and cards; many payments can move digitally with a clear trail.",
+    "quiz": {
+      "question": "Jan Dhan mainly helps by…",
+      "options": [
+        "Bringing more households into basic banking for transfers and safety",
+        "Giving unlimited free international flights",
+        "Replacing schools with bank branches",
+        "Banning all private banks"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "gst-one-nation-one-tax",
+    "title": "GST (One Nation, One Tax)",
+    "department": "Finance",
+    "one_liner": "One main nationwide goods and services tax instead of a maze of older state and central taxes.",
+    "what": "GST is a value-added tax on many goods and services, collected in stages, with rules for invoices and input credits so businesses offset tax on inputs.",
+    "why": "Old tax layers were confusing for trucks, shops, and small firms moving goods across states.",
+    "example": "A snack brand ships boxes to three states with clearer rules and digital filings instead of many small permits.",
+    "pros": ["Can reduce cascading ‘tax on tax’", "More formal invoices over time", "Easier to compare rates in one system"],
+    "cons": ["Small firms still face compliance load", "Slab debates never fully end", "Tech glitches hurt if backup help is weak"],
+    "before": "Multiple taxes and checkpoints slowed trade and confused bills.",
+    "after": "One broad framework with GSTN-style digital rails for many sectors.",
+    "quiz": {
+      "question": "GST is best summed up as…",
+      "options": [
+        "A new cricket league for tax officers",
+        "A unified goods and services tax system across much of India",
+        "A tax only on imported luxury yachts",
+        "A ban on all small shops"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "pm-svanidhi",
+    "title": "PM Street Vendor’s AtmaNirbhar Nidhi (PM SVANidhi)",
+    "department": "Finance",
+    "one_liner": "Tiny loans to help street vendors restock and grow after shocks like COVID-19.",
+    "what": "Micro-credit for eligible street vendors, often in small tiers, to buy stock, tools, or repair carts—with incentives for digital repayments in some cases.",
+    "why": "Vendors run on thin cash; a week without sales can mean no fresh stock.",
+    "example": "A juice stall owner borrows a small amount, buys a better blender, and serves more cups per hour.",
+    "pros": ["Quick, small ticket support", "Recognises informal work formally", "Can build repayment history"],
+    "cons": ["Not every vendor is mapped or eligible", "Loan ≠ profit—business skill still matters", "Local politics can affect fair access"],
+    "before": "Informal credit at harsh rates after income dips.",
+    "after": "A structured micro-loan lane with a pathway to better discipline and digital trails.",
+    "quiz": {
+      "question": "PM SVANidhi mainly targets…",
+      "options": [
+        "Large airlines only",
+        "Street vendors needing small working capital loans",
+        "Foreign hedge funds",
+        "Only farm land purchases above ₹1 crore"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "national-education-policy-2020",
+    "title": "National Education Policy (NEP) 2020",
+    "department": "Education",
+    "one_liner": "A big roadmap: flexible learning, less rote, more skills—implemented step by step by states.",
+    "what": "A policy guide for school and college change—think 5+3+3+4 stages, more vocational exposure, teacher training, and multidisciplinary options—not one overnight switch.",
+    "why": "Old tracks felt rigid early; employers wanted thinking and teamwork, not only long memorised answers.",
+    "example": "A school adds a short project week: climate poster + basic data, presented like a mini science fair.",
+    "pros": ["Room for projects and critical thinking", "Vocational paths gain respect on paper", "Early childhood gets more focus in design"],
+    "cons": ["Needs money, teachers, and time in each state", "Exam culture will not vanish instantly", "Parents need clear communication"],
+    "before": "Heavy exam pressure; lanes like science/commerce/arts felt locked too early for some.",
+    "after": "Policy nudges flexibility, credits, and skills—but real class vibes still depend on local rollout.",
+    "quiz": {
+      "question": "NEP 2020 is mainly…",
+      "options": [
+        "A single app that deletes homework",
+        "A national education reform roadmap states adapt over time",
+        "A rule banning all board exams forever from day one",
+        "A scheme only for foreign students"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "midday-meal-scheme",
+    "title": "PM POSHAN (Mid-Day Meal)",
+    "department": "Education",
+    "one_liner": "Free hot lunch at school so hunger doesn’t pull kids out of class.",
+    "what": "A school meal programme (now under PM POSHAN branding in policy talk) that funds grains, cooking costs, and better kitchens in many government and aided schools.",
+    "why": "Poor nutrition and empty stomachs were linked to dropout, especially for girls and younger kids.",
+    "example": "Arjun actually stays till 3 pm because dal-rice is reliable—and he jokes less about ‘lunch money stress’.",
+    "pros": ["Boosts attendance and focus", "Supports local cooks and suppliers", "Simple idea with huge daily reach"],
+    "cons": ["Quality varies with kitchens and hygiene", "Leakage or delays in some blocks", "Doesn’t fix teacher shortage alone"],
+    "before": "Some kids skipped school when meals at home were uncertain.",
+    "after": "A predictable school meal becomes a social anchor and nutrition safety net.",
+    "quiz": {
+      "question": "Mid-day meals at school mainly aim to…",
+      "options": [
+        "Replace teachers with chefs",
+        "Improve nutrition and attendance by serving food in school hours",
+        "Fund college hostels only",
+        "Ban packed lunches from home"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "samagra-shiksha",
+    "title": "Samagra Shiksha",
+    "department": "Education",
+    "one_liner": "One merged umbrella fund for school quality—from foundational literacy to labs and inclusion.",
+    "what": "Samagra Shiksha bundles many school grants: early learning, RMSA-style secondary support, teacher training, ICT, inclusive education for children with disabilities, and more.",
+    "why": "Silos made planning messy; states wanted flexible money tied to learning outcomes, not only labels.",
+    "example": "A panchayat school gets a few new computers and a ramp—same scheme window, less form jungle.",
+    "pros": ["Flexible blocks for states", "Focus on learning levels, not only buildings", "Inclusion budgets in the same frame"],
+    "cons": ["Implementation still needs honest procurement", "Reporting load on small schools", "Doesn’t auto-fix teacher vacancies"],
+    "before": "Several parallel schemes with different forms and timelines.",
+    "after": "One integrated school education programme with clearer combined planning.",
+    "quiz": {
+      "question": "Samagra Shiksha is mainly about…",
+      "options": [
+        "Funding and improving school education holistically",
+        "Building only cricket stadiums",
+        "Paying students cash for likes on social media",
+        "Closing all private schools in a week"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "ayushman-bharat-pmjay",
+    "title": "Ayushman Bharat (AB-PMJAY)",
+    "department": "Health",
+    "one_liner": "Hospital cost help for many eligible families when a serious illness hits.",
+    "what": "A health-assurance style package for listed secondary and tertiary care at empanelled hospitals, with an e-card and annual cover limits for eligible families.",
+    "why": "One big bill could wipe savings; many had no private insurance buffer.",
+    "example": "A surgery bill drops sharply at an empanelled hospital because the package is covered for that case.",
+    "pros": ["Reduces shock bills for many eligible cases", "Large empanelled network", "Pushes hospitals toward package rates"],
+    "cons": ["Not everyone is eligible", "Not every disease or hospital is covered", "Crowding where trust is high"],
+    "before": "Borrowing or skipping care after major hospital stays.",
+    "after": "Eligible families carry an e-card and clearer package cover in many situations.",
+    "quiz": {
+      "question": "AB-PMJAY is best described as…",
+      "options": [
+        "Free spa vouchers nationwide",
+        "Cover for many serious hospital treatments for eligible families at empanelled hospitals",
+        "A ban on all private doctors",
+        "Travel insurance for international holidays"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "mission-indradhanush",
+    "title": "Mission Indradhanush",
+    "department": "Health",
+    "one_liner": "Catch-up drives so babies get life-saving vaccines on time, not months late.",
+    "what": "Special immunisation rounds in high-focus districts and outreach to reach kids who missed routine vaccine dates.",
+    "why": "Dropouts in the vaccine schedule meant preventable diseases could still break out.",
+    "example": "ASHA workers map a slum lane; three infants get their missed pentavalent shots the same week.",
+    "pros": ["Targets last-mile gaps", "Cheap compared to outbreak costs", "Builds trust when done respectfully"],
+    "cons": ["Rumours can still scare parents", "Cold chain breaks in heat waves", "Needs steady routine services after drives"],
+    "before": "Some pockets had low full-immunisation coverage year after year.",
+    "after": "Focused campaigns plus routine sessions lift coverage charts in many areas.",
+    "quiz": {
+      "question": "Mission Indradhanush mainly pushes…",
+      "options": [
+        "Vaccine catch-up and full immunisation coverage",
+        "Selling perfumes in hospitals",
+        "Banning all government hospitals",
+        "Free gym memberships for adults only"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "tele-mental-health-programme",
+    "title": "Tele Mental Health Programme",
+    "department": "Health",
+    "one_liner": "Remote counselling so teens and adults can reach help without travel stigma.",
+    "what": "A network of tele-mental health centres (linked with institutes like NIMHANS in design) to offer phone or video support, referrals, and training for frontline staff.",
+    "why": "Mental health care was uneven; distance and shame blocked many from walking into a clinic.",
+    "example": "A college student books a call after panic attacks—first step without skipping class for a faraway city trip.",
+    "pros": ["Lower barrier than only in-person visits", "Can train more counsellors remotely", "Good for mild to moderate support tiers"],
+    "cons": ["Not a substitute for emergency in-person care", "Privacy depends on call quality and data rules", "Burnout risk for thin helpline teams"],
+    "before": "Long silent struggles; few affordable therapists nearby.",
+    "after": "A documented tele-ladder for talk support, follow-ups, and referrals when needed.",
+    "quiz": {
+      "question": "Tele mental health aims to…",
+      "options": [
+        "Replace water supply in villages",
+        "Make counselling and support easier to access from home or nearby centres",
+        "Ban therapy completely",
+        "Give free cars to every student"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "pm-kisan",
+    "title": "PM-KISAN",
+    "department": "Agriculture",
+    "one_liner": "Small cash instalments for eligible farmer families between tough crop seasons.",
+    "what": "Direct benefit transfers in instalments to landholding farmer families who pass eligibility checks, usually to a linked bank account.",
+    "why": "Farm income jumps with rain and prices; many small holders had no cushion for inputs or fees.",
+    "example": "Grandpa buys fertiliser on time because an instalment arrived before sowing week.",
+    "pros": ["Simple cash design when DBT works", "Predictable dates on paper", "Pushes updated land and bank records"],
+    "cons": ["Debate on who should qualify", "Not a fix for bad prices or drought alone", "Tech mismatches can delay payouts"],
+    "before": "Lean months pushed some toward informal high-interest loans.",
+    "after": "Small, scheduled transfers add breathing room for many eligible families.",
+    "quiz": {
+      "question": "PM-KISAN mainly gives…",
+      "options": [
+        "Free tractors to apartment owners",
+        "Instalments of income support to eligible landholding farmer families",
+        "A ban on growing vegetables",
+        "Scholarships only for city colleges"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "soil-health-card",
+    "title": "Soil Health Card Scheme",
+    "department": "Agriculture",
+    "one_liner": "Soil tests turned into a simple card so farmers know what the land actually needs.",
+    "what": "Field sampling and lab tests summarised on a card: nutrient status and fertiliser dose hints crop-wise, in farmer-friendly language.",
+    "why": "Blind fertiliser use wasted money and hurt soil over time.",
+    "example": "A wheat farmer cuts urea a bit after the card shows enough nitrogen—saves cash and runoff.",
+    "pros": ["Targets fertiliser use smarter", "Teaches soil as a balance sheet", "Cheap at scale compared to yield loss"],
+    "cons": ["Sampling quality must be honest", "Advisory follow-through varies", "Cards age—retesting matters"],
+    "before": "Guesswork and neighbour-copy habits on fertiliser bags.",
+    "after": "Printed/digital hints tied to tested plots in many districts.",
+    "quiz": {
+      "question": "Soil Health Cards mainly help farmers…",
+      "options": [
+        "Understand soil nutrients and apply fertiliser more wisely",
+        "Sell soil as jewellery",
+        "Get free international flights",
+        "Replace crops with only cactus"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "enam",
+    "title": "eNAM (National Agriculture Market)",
+    "department": "Agriculture",
+    "one_liner": "Online mandi trading links so farmers can see more buyers and less middleman drama.",
+    "what": "A digital trading platform connecting Agricultural Produce Market Committees (APMCs) for listed commodities—price discovery, bids, and smoother logistics in intent.",
+    "why": "Local cartels sometimes crushed farm gate prices; transparent bids were rare.",
+    "example": "A tomato grower checks live bids from two linked mandis before loading the truck route.",
+    "pros": ["Wider price visibility", "Less purely local monopoly pricing", "Digital record of trades when used honestly"],
+    "cons": ["Needs stable internet and trust", "Physical grading disputes still happen", "Not all markets are equally active"],
+    "before": "Seller hears only one yard’s whisper rate.",
+    "after": "More yards on one digital grid for listed crops in participating states.",
+    "quiz": {
+      "question": "eNAM is mainly about…",
+      "options": [
+        "National online linkage of mandis for better price discovery",
+        "Selling phones to cows",
+        "Banning all farmers’ markets",
+        "Importing only luxury chocolates"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "mgnrega",
+    "title": "MGNREGA",
+    "department": "Employment",
+    "one_liner": "Up to 100 days of paid rural work on local projects when families ask for it.",
+    "what": "A legal guarantee of wage work on approved unskilled tasks—ponds, paths, soil work—with job cards and muster rolls for transparency.",
+    "why": "Lean farm seasons left families with zero cash and risky migration choices.",
+    "example": "Monsoon fails; a village opens MGNREGA weeks on a bund—wages buy rice till the next crop.",
+    "pros": ["Rights-based safety net in principle", "Builds small public assets", "Women’s share is strong on paper"],
+    "cons": ["Delayed wages in some blocks", "Weak projects waste effort", "Urban poor are outside the guarantee"],
+    "before": "No statutory fallback when farm work vanished overnight.",
+    "after": "Demand-led workdays with wage lists—imperfect but real in many panchayats.",
+    "quiz": {
+      "question": "MGNREGA guarantees up to…",
+      "options": [
+        "10 unpaid volunteer days",
+        "100 days of wage work a financial year for eligible rural households",
+        "Lifetime salary without work",
+        "Only office jobs in metros"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "skill-india-mission",
+    "title": "Skill India Mission",
+    "department": "Employment",
+    "one_liner": "Training and standards so young people leave courses with skills employers recognise.",
+    "what": "A umbrella brand for NSDC partners, PMKVY-style short courses, apprenticeships, and industry-linked certificates—not magic jobs, but clearer skill lanes.",
+    "why": "Degrees alone didn’t match shop-floor or service needs; youth unemployment stayed sticky.",
+    "example": "A welder course plus assessment badge helps a leaver join a small fabrication unit faster.",
+    "pros": ["Short, modular paths exist", "Industry logos on some packs", "Raises respect for vocational work"],
+    "cons": ["Training quality varies wildly", "Certificates without jobs frustrate", "Marketing sometimes oversells placement"],
+    "before": "Theory-heavy courses with weak lab hours.",
+    "after": "More competency tests, apprenticeships, and sector councils in the conversation.",
+    "quiz": {
+      "question": "Skill India mainly promotes…",
+      "options": [
+        "Job-linked training and recognised vocational skills",
+        "Banning college for everyone",
+        "Free luxury cruises",
+        "Random lottery visas only"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "national-career-service",
+    "title": "National Career Service (NCS)",
+    "department": "Employment",
+    "one_liner": "A government job-matching portal plus career counselling tools for first-time job seekers.",
+    "what": "Online registration, vacancy listings, skill courses links, and career centres that try to reduce fraud middlemen in informal hiring.",
+    "why": "Many youth relied on costly agents for basic job info.",
+    "example": "A diploma holder uploads a CV template from a cyber café and applies to two local factory openings.",
+    "pros": ["Central notice board feel", "Some states plug local fairs into it", "Free core access for job seekers"],
+    "cons": ["Not every real job is listed", "UI can feel clunky", "Spam listings need moderation"],
+    "before": "Paper notices on random walls; agent fees for the same news.",
+    "after": "One searchable lane with verified employer attempts and counselling hooks.",
+    "quiz": {
+      "question": "National Career Service is mainly…",
+      "options": [
+        "A portal ecosystem for jobs, skills, and career guidance",
+        "A scheme to hire only robots",
+        "A tax on walking",
+        "A ban on all internships"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "digital-india-programme",
+    "title": "Digital India Programme",
+    "department": "Digital India",
+    "one_liner": "Better internet, e-gov services, and electronics manufacturing—India online but inclusive.",
+    "what": "A flagship bundle: broadband reach, cloud gov platforms, cyber awareness, and incentives for electronics assembly and design-linked jobs.",
+    "why": "Paper queues and poor connectivity wasted time; phones became universal before services caught up.",
+    "example": "A ration card update starts on a state app; biometric check at the fair price shop finishes the loop.",
+    "pros": ["Saves trips when portals work", "Creates tech jobs in tiers 2–3", "Shared rails like UPI help daily life"],
+    "cons": ["Digital divide still real", "Phishing rises with usage", "Bad UX blocks the elderly"],
+    "before": "Certificates meant multiple office visits and photocopies.",
+    "after": "Many services have online or hybrid paths with shared digital IDs where allowed.",
+    "quiz": {
+      "question": "Digital India is mainly about…",
+      "options": [
+        "Banning smartphones for students",
+        "Digital infrastructure, e-governance, and inclusive online access",
+        "Deleting all government websites",
+        "Stopping UPI permanently"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "digilocker",
+    "title": "DigiLocker",
+    "department": "Digital India",
+    "one_liner": "Your marksheets and IDs in a secure digital wallet—less Xerox drama.",
+    "what": "A cloud locker issued by the government where verified issuers push digital documents citizens can share with consent.",
+    "why": "Colleges, banks, and airlines asked for the same paper again and again.",
+    "example": "You show a verified class-12 PDF from DigiLocker at admission instead of rushing for attested copies.",
+    "pros": ["Less paper chase", "Share links with expiry in some flows", "Backed by Aadhaar-style KYC where enabled"],
+    "cons": ["Needs smartphone or help desk", "Not every office accepts e-copies yet", "Privacy education is a must"],
+    "before": "Folders of laminated copies for every new form.",
+    "after": "Signed digital copies in many institutions that trust the issuer.",
+    "quiz": {
+      "question": "DigiLocker mainly lets you…",
+      "options": [
+        "Store and share verified digital documents",
+        "Mine cryptocurrency with Aadhaar",
+        "Buy movie tickets only",
+        "Delete your birth certificate forever"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "bharatnet",
+    "title": "BharatNet",
+    "department": "Digital India",
+    "one_liner": "Fiber to gram panchayats so villages can study, trade, and telemedicine without crawling speeds.",
+    "what": "A national optical fibre backbone project to connect local bodies and offer bandwidth partners can light up for Wi-Fi or broadband.",
+    "why": "Village uploads failed during online exams; tele-health needed stable pipes.",
+    "example": "A coaching class streams a free YouTube revision session without buffering for the whole group.",
+    "pros": ["Cuts distance to knowledge jobs", "Enables e-gov kiosks", "Attracts small ISPs where open access works"],
+    "cons": ["Last-mile Wi-Fi still uneven", "Maintenance contracts matter", "Power cuts break the dream if not paired"],
+    "before": "Patchy 2G for homework research in many hamlets.",
+    "after": "Fibre at the panchayat anchor; states and operators fight the last hop.",
+    "quiz": {
+      "question": "BharatNet focuses on…",
+      "options": [
+        "Optical fibre broadband to gram panchayats as digital backbone",
+        "Banning satellite TV",
+        "Free cars for every household",
+        "Replacing teachers with chatbots only"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "digital_rupee",
+    "title": "Digital Rupee",
+    "department": "Finance",
+    "one_liner": "India created its own official digital currency.",
+    "what": "A digital version of Indian Rupee launched by RBI.",
+    "why": "To support faster and secure digital payments.",
+    "example": "People can use digital rupee on phone instead of cash.",
+    "pros": ["Fast payments", "Secure transactions", "Less cash dependency"],
+    "cons": ["Still new", "Needs digital awareness"],
+    "before": "Mostly physical cash",
+    "after": "Government-backed digital money",
+    "quiz": {
+      "question": "The Digital Rupee is best described as…",
+      "options": [
+        "A private cryptocurrency not tied to the rupee",
+        "An RBI-backed digital form of the Indian rupee",
+        "Only foreign currency for tourists",
+        "A ban on UPI payments"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "mudra_yojana",
+    "title": "PM Mudra Yojana",
+    "department": "Finance",
+    "one_liner": "Small businesses can get loans more easily.",
+    "what": "A scheme providing loans to small businesses and startups.",
+    "why": "Many small shopkeepers and entrepreneurs struggled to get loans.",
+    "example": "A tea stall owner gets money to expand business.",
+    "pros": ["Supports startups", "Creates jobs", "Easy loans"],
+    "cons": ["Loan repayment pressure", "Some businesses fail"],
+    "before": "Hard to get business loans",
+    "after": "Easier access to funding",
+    "quiz": {
+      "question": "PM Mudra Yojana mainly helps…",
+      "options": [
+        "Only large steel plants",
+        "Small businesses and entrepreneurs access loans",
+        "Students with free laptops only",
+        "International stock trading"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "faceless_tax_assessment",
+    "title": "Faceless Income Tax Assessment",
+    "department": "Finance",
+    "one_liner": "Income tax process became more digital and transparent.",
+    "what": "An online tax assessment system without physical meetings.",
+    "why": "To reduce corruption and make tax process easier.",
+    "example": "People submit tax details online instead of visiting offices.",
+    "pros": ["Less corruption", "Faster process", "More transparency"],
+    "cons": ["Technical issues", "Difficult for non-tech users"],
+    "before": "Physical tax office visits",
+    "after": "Online tax handling",
+    "quiz": {
+      "question": "Faceless tax assessment means…",
+      "options": [
+        "No one pays tax anymore",
+        "Assessment happens digitally without needing to meet an officer in person",
+        "Only cash payments at counters",
+        "Tax is decided by random lottery"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "direct_benefit_transfer",
+    "title": "Direct Benefit Transfer",
+    "department": "Finance",
+    "one_liner": "Government money now goes directly into bank accounts.",
+    "what": "A system that transfers subsidies directly to citizens.",
+    "why": "Middlemen and corruption delayed benefits earlier.",
+    "example": "Scholarship money directly reaches student account.",
+    "pros": ["Less corruption", "Faster payments", "More transparency"],
+    "cons": ["Bank account required", "Technical issues possible"],
+    "before": "Money passed through middlemen",
+    "after": "Direct account transfer",
+    "quiz": {
+      "question": "DBT mainly does which of these?",
+      "options": [
+        "Sends scheme money straight to eligible people’s bank accounts",
+        "Stops all scholarships",
+        "Replaces banks with cash vans only",
+        "Taxes every UPI payment at 50%"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "sovereign_gold_bond",
+    "title": "Sovereign Gold Bond Scheme",
+    "department": "Finance",
+    "one_liner": "People can invest in gold digitally without buying jewellery.",
+    "what": "Government bonds linked to gold prices.",
+    "why": "Physical gold has storage and theft risks.",
+    "example": "A person invests in gold online instead of buying coins.",
+    "pros": ["Safe investment", "No storage problem", "Earns interest"],
+    "cons": ["Lock-in period", "Gold prices fluctuate"],
+    "before": "Buying physical gold",
+    "after": "Digital gold investment",
+    "quiz": {
+      "question": "Sovereign Gold Bonds are…",
+      "options": [
+        "Jewellery shop discount coupons",
+        "Government securities whose value tracks gold, held digitally",
+        "Foreign currency deposits",
+        "Free gold coins for every voter"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "atal_pension_yojana",
+    "title": "Atal Pension Yojana",
+    "department": "Finance",
+    "one_liner": "Workers can receive pension after retirement.",
+    "what": "A pension scheme mainly for unorganized workers.",
+    "why": "Many workers had no financial support in old age.",
+    "example": "A worker saves monthly and gets pension later.",
+    "pros": ["Retirement security", "Affordable savings", "Guaranteed pension"],
+    "cons": ["Long-term commitment", "Small monthly deductions"],
+    "before": "No stable pension support",
+    "after": "Regular retirement income",
+    "quiz": {
+      "question": "Atal Pension Yojana focuses on…",
+      "options": [
+        "Free cars for retirees",
+        "Small regular savings that build a pension for many informal workers",
+        "Only government employees",
+        "One-time cash gifts with no pension"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "national_pension_system",
+    "title": "National Pension System",
+    "department": "Finance",
+    "one_liner": "People can save money regularly for retirement.",
+    "what": "A long-term retirement savings scheme.",
+    "why": "To encourage people to plan financially for future.",
+    "example": "Employees invest monthly and build retirement fund.",
+    "pros": ["Long-term savings", "Tax benefits", "Retirement planning"],
+    "cons": ["Market risk", "Money locked for years"],
+    "before": "Limited retirement planning",
+    "after": "Structured pension savings",
+    "quiz": {
+      "question": "NPS is mainly…",
+      "options": [
+        "A short-term holiday savings jar",
+        "A voluntary, long-term pension and retirement savings system",
+        "A scheme that bans mutual funds",
+        "Only for foreign investors"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "stand_up_india",
+    "title": "Stand-Up India",
+    "department": "Finance",
+    "one_liner": "Loans for women and SC/ST entrepreneurs.",
+    "what": "A scheme encouraging underrepresented entrepreneurs.",
+    "why": "Many people lacked financial support to start businesses.",
+    "example": "A woman opens her own bakery using government loan.",
+    "pros": ["Encourages entrepreneurship", "Supports inclusion", "Creates jobs"],
+    "cons": ["Loan repayment burden", "Business risks"],
+    "before": "Limited support for entrepreneurs",
+    "after": "Special startup funding available",
+    "quiz": {
+      "question": "Stand-Up India is designed to support…",
+      "options": [
+        "Only multinational companies",
+        "Entrepreneurship among women and SC/ST communities with bank loans",
+        "Free land for everyone",
+        "Import of luxury cars"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "production_linked_incentive",
+    "title": "Production Linked Incentive Scheme",
+    "department": "Finance",
+    "one_liner": "Government rewards companies for manufacturing more in India.",
+    "what": "A scheme giving incentives to boost manufacturing.",
+    "why": "India wanted more factories and jobs.",
+    "example": "Phone companies get benefits for making devices in India.",
+    "pros": ["More jobs", "Boosts economy", "Supports manufacturing"],
+    "cons": ["Benefits large companies more", "High government spending"],
+    "before": "Lower manufacturing growth",
+    "after": "More local production",
+    "quiz": {
+      "question": "PLI schemes mainly…",
+      "options": [
+        "Ban all imports instantly",
+        "Offer incentives tied to production to grow manufacturing in India",
+        "Pay consumers to stop working",
+        "Replace rupee with barter"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "startup_india_funding",
+    "title": "Startup India Seed Fund",
+    "department": "Finance",
+    "one_liner": "Startups receive early financial support.",
+    "what": "Government funding support for new startups.",
+    "why": "Many startups failed due to lack of initial funding.",
+    "example": "A student startup gets funds to build an app.",
+    "pros": ["Supports innovation", "Encourages startups", "Creates opportunities"],
+    "cons": ["High startup failure risk", "Limited funding access"],
+    "before": "Hard to raise startup money",
+    "after": "Government startup support available",
+    "quiz": {
+      "question": "Startup India Seed Fund is meant to…",
+      "options": [
+        "Close all new companies",
+        "Help early-stage startups with funding and support",
+        "Fund only movie production",
+        "Replace all private investors"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "swayam",
+    "title": "SWAYAM",
+    "department": "Education",
+    "one_liner": "Students can study online courses for free.",
+    "what": "A government platform offering online learning courses.",
+    "why": "Many students could not access quality education easily.",
+    "example": "A student learns coding online from home.",
+    "pros": ["Free learning", "Flexible timing", "Accessible anywhere"],
+    "cons": ["Needs internet", "Less classroom interaction"],
+    "before": "Limited access to good courses",
+    "after": "Online education available nationwide",
+    "quiz": {
+      "question": "SWAYAM mainly helps students by...",
+      "options": [
+        "Offering free online courses from anywhere",
+        "Replacing all schools with hostels",
+        "Giving free smartphones to every student",
+        "Banning classroom teaching"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "pm_ebvidya",
+    "title": "PM eVIDYA",
+    "department": "Education",
+    "one_liner": "Education reached students through TV and digital platforms.",
+    "what": "A program providing digital and TV-based learning.",
+    "why": "Students struggled during school closures.",
+    "example": "Students watch educational classes on TV channels.",
+    "pros": ["Remote learning", "Wide reach", "Useful during emergencies"],
+    "cons": ["Screen dependency", "Internet/device issues"],
+    "before": "Learning mostly in classrooms",
+    "after": "Multiple digital learning options",
+    "quiz": {
+      "question": "PM eVIDYA is best known for...",
+      "options": [
+        "Only college scholarships",
+        "TV and digital learning access",
+        "Replacing teachers with robots",
+        "Stopping online learning"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "diksha_platform",
+    "title": "DIKSHA",
+    "department": "Education",
+    "one_liner": "Teachers and students got digital learning resources.",
+    "what": "An online platform with educational materials and training.",
+    "why": "Teachers needed better digital tools.",
+    "example": "A teacher downloads lesson plans from the app.",
+    "pros": ["Easy access", "Teacher support", "Digital learning"],
+    "cons": ["Requires devices", "Internet needed"],
+    "before": "Limited digital teaching tools",
+    "after": "Centralized education platform",
+    "quiz": {
+      "question": "DIKSHA mostly provides...",
+      "options": [
+        "Sports stadium bookings",
+        "Digital learning resources and teacher support",
+        "Only offline printed books",
+        "Income tax filing tools"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "nipun_bharat",
+    "title": "NIPUN Bharat",
+    "department": "Education",
+    "one_liner": "Young children focus on reading and math basics.",
+    "what": "A mission to improve foundational literacy and numeracy.",
+    "why": "Many children struggled with basic reading and math.",
+    "example": "Kids learn reading skills in early grades.",
+    "pros": ["Stronger basics", "Better learning outcomes", "Early support"],
+    "cons": ["Implementation challenges", "Teacher training needed"],
+    "before": "Weak foundational skills",
+    "after": "Focus on basic learning",
+    "quiz": {
+      "question": "NIPUN Bharat focuses on...",
+      "options": [
+        "College placements only",
+        "Basic reading and math in early classes",
+        "Foreign language tests only",
+        "Military training in schools"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "vidyanjali",
+    "title": "Vidyanjali",
+    "department": "Education",
+    "one_liner": "Volunteers help improve schools and student learning.",
+    "what": "A program connecting volunteers with schools.",
+    "why": "Schools needed extra support and resources.",
+    "example": "An engineer teaches students basic robotics.",
+    "pros": ["Community involvement", "Skill sharing", "Better exposure"],
+    "cons": ["Uneven participation", "Limited reach"],
+    "before": "Schools depended only on teachers",
+    "after": "Volunteers support learning",
+    "quiz": {
+      "question": "Vidyanjali is mainly about...",
+      "options": [
+        "Volunteers supporting school learning",
+        "Replacing all principals",
+        "Only online exams",
+        "Building new airports"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "study_webs_of_active_learning",
+    "title": "SWAYAM PRABHA",
+    "department": "Education",
+    "one_liner": "Educational TV channels provide free learning content.",
+    "what": "A group of TV channels broadcasting educational programs.",
+    "why": "Not every student had internet access.",
+    "example": "Students watch science lessons on TV.",
+    "pros": ["Free access", "No internet required", "Wide availability"],
+    "cons": ["Fixed timings", "Less interaction"],
+    "before": "Education mostly internet or classroom based",
+    "after": "Learning available through TV",
+    "quiz": {
+      "question": "SWAYAM PRABHA helps students by...",
+      "options": [
+        "Giving only paid premium classes",
+        "Providing educational TV channels",
+        "Stopping digital education",
+        "Replacing textbooks with games"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "national_digital_library",
+    "title": "National Digital Library",
+    "department": "Education",
+    "one_liner": "Students can access thousands of books online.",
+    "what": "A digital library with educational content.",
+    "why": "Books and study materials were not easily accessible everywhere.",
+    "example": "A student reads exam preparation books online.",
+    "pros": ["Free resources", "Easy access", "Large collection"],
+    "cons": ["Needs internet", "Digital dependency"],
+    "before": "Limited library access",
+    "after": "Books available online",
+    "quiz": {
+      "question": "National Digital Library mainly offers...",
+      "options": [
+        "Online access to books and study resources",
+        "Only physical magazines",
+        "Free train tickets",
+        "School uniform vouchers"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "atal_tinkering_labs",
+    "title": "Atal Tinkering Labs",
+    "department": "Education",
+    "one_liner": "Students learn innovation through hands-on experiments.",
+    "what": "School labs promoting robotics, coding, and innovation.",
+    "why": "Students needed practical and creative learning.",
+    "example": "Students build small robots in school labs.",
+    "pros": ["Creativity", "Tech exposure", "Practical learning"],
+    "cons": ["Limited schools", "Equipment costs"],
+    "before": "Mostly theoretical learning",
+    "after": "Hands-on innovation learning",
+    "quiz": {
+      "question": "Atal Tinkering Labs encourage...",
+      "options": [
+        "Only textbook memorization",
+        "Hands-on innovation like robotics and coding",
+        "No practical learning",
+        "Only sports coaching"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "skill_hub_initiative",
+    "title": "Skill Hub Initiative",
+    "department": "Education",
+    "one_liner": "Students learn job-ready practical skills.",
+    "what": "A program focused on vocational and practical training.",
+    "why": "Students often lacked employable skills.",
+    "example": "Students learn graphic design or coding.",
+    "pros": ["Job skills", "Practical learning", "Career support"],
+    "cons": ["Limited awareness", "Needs industry partnerships"],
+    "before": "Focus mostly on theory",
+    "after": "More skill-based education",
+    "quiz": {
+      "question": "Skill Hub Initiative mainly supports...",
+      "options": [
+        "Only exam theory preparation",
+        "Vocational and practical job-ready skills",
+        "Tax filing support",
+        "Bank loan approvals"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "eklavya_model_schools",
+    "title": "Eklavya Model Residential Schools",
+    "department": "Education",
+    "one_liner": "Tribal students get better residential education facilities.",
+    "what": "Residential schools mainly for tribal communities.",
+    "why": "Many tribal students lacked quality education access.",
+    "example": "Students study and live in modern school campuses.",
+    "pros": ["Better education access", "Hostel facilities", "Supports tribal students"],
+    "cons": ["Limited seats", "Infrastructure challenges"],
+    "before": "Limited educational support in tribal areas",
+    "after": "Improved residential schooling",
+    "quiz": {
+      "question": "Eklavya Model Residential Schools are primarily for...",
+      "options": [
+        "Only urban private-school students",
+        "Improving educational access for tribal students",
+        "Only college hostels",
+        "Corporate training"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "national_digital_health_mission",
+    "title": "National Digital Health Mission",
+    "department": "Health",
+    "one_liner": "Health records are becoming digital and easier to access.",
+    "what": "A program creating digital health IDs and online medical records.",
+    "why": "Medical records were scattered and difficult to manage.",
+    "example": "A patient accesses reports online through health ID.",
+    "pros": ["Easy record access", "Faster treatment", "Digital healthcare"],
+    "cons": ["Privacy concerns", "Needs internet access"],
+    "before": "Paper-based medical records",
+    "after": "Digital health system",
+    "quiz": {
+      "question": "National Digital Health Mission mainly enables...",
+      "options": [
+        "Digital health IDs and easier medical record access",
+        "Only private hospital expansion",
+        "Removing all health records",
+        "Stopping online consultations"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "jan_aushadhi_yojana",
+    "title": "Pradhan Mantri Jan Aushadhi Yojana",
+    "department": "Health",
+    "one_liner": "Affordable medicines became available to more people.",
+    "what": "A scheme providing low-cost generic medicines.",
+    "why": "Many people struggled to afford expensive medicines.",
+    "example": "Patients buy cheaper medicines from Jan Aushadhi stores.",
+    "pros": ["Affordable healthcare", "Lower medicine costs", "Wide reach"],
+    "cons": ["Limited awareness", "Availability issues in some areas"],
+    "before": "Costly branded medicines",
+    "after": "Affordable generic medicines",
+    "quiz": {
+      "question": "Jan Aushadhi Yojana focuses on...",
+      "options": [
+        "Luxury health products",
+        "Low-cost generic medicines",
+        "Only online fitness coaching",
+        "Medical tourism packages"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "fit_india_movement",
+    "title": "Fit India Movement",
+    "department": "Health",
+    "one_liner": "India encouraged people to stay active and healthy.",
+    "what": "A nationwide fitness and wellness campaign.",
+    "why": "Lifestyle diseases and inactivity were increasing.",
+    "example": "Schools organize fitness activities for students.",
+    "pros": ["Promotes exercise", "Health awareness", "Better lifestyle"],
+    "cons": ["Participation varies", "Long-term impact takes time"],
+    "before": "Less focus on daily fitness",
+    "after": "More awareness about healthy living",
+    "quiz": {
+      "question": "Fit India Movement mainly promotes...",
+      "options": [
+        "Daily fitness and healthy lifestyle habits",
+        "Only hospital construction",
+        "Replacing sports in schools",
+        "Banning outdoor activities"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "eat_right_india",
+    "title": "Eat Right India",
+    "department": "Health",
+    "one_liner": "People are encouraged to eat healthier and safer food.",
+    "what": "A campaign promoting healthy eating habits and food safety.",
+    "why": "Unhealthy eating habits were increasing health problems.",
+    "example": "Restaurants display hygiene ratings for customers.",
+    "pros": ["Healthier lifestyle", "Food safety awareness", "Better nutrition"],
+    "cons": ["Slow behavior change", "Limited awareness"],
+    "before": "Less focus on nutrition and hygiene",
+    "after": "More awareness about healthy food",
+    "quiz": {
+      "question": "Eat Right India is about...",
+      "options": [
+        "Fast-food discounts only",
+        "Healthy eating and safer food practices",
+        "Only gym memberships",
+        "Replacing school meals"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "poshan_abhiyaan",
+    "title": "POSHAN Abhiyaan",
+    "department": "Health",
+    "one_liner": "India focused on reducing malnutrition in children and mothers.",
+    "what": "A nutrition mission improving health of women and children.",
+    "why": "Malnutrition rates were high in many areas.",
+    "example": "Children receive nutrition support in anganwadis.",
+    "pros": ["Improves nutrition", "Supports children", "Health awareness"],
+    "cons": ["Implementation challenges", "Uneven reach"],
+    "before": "High malnutrition levels",
+    "after": "Better nutrition support",
+    "quiz": {
+      "question": "POSHAN Abhiyaan mainly targets...",
+      "options": [
+        "Road safety awareness",
+        "Malnutrition among women and children",
+        "Only adult fitness competitions",
+        "Tax reforms"
+      ],
+      "correctIndex": 1
+    }
+  },
+  {
+    "id": "tb_mukt_bharat",
+    "title": "TB Mukt Bharat",
+    "department": "Health",
+    "one_liner": "India aims to eliminate tuberculosis faster.",
+    "what": "A campaign to detect and treat TB patients.",
+    "why": "Tuberculosis affected millions across the country.",
+    "example": "Free TB testing and medicines provided to patients.",
+    "pros": ["Better treatment", "Free support", "Disease awareness"],
+    "cons": ["Stigma around TB", "Treatment takes time"],
+    "before": "Limited TB awareness and treatment",
+    "after": "Stronger TB control efforts",
+    "quiz": {
+      "question": "TB Mukt Bharat is focused on...",
+      "options": [
+        "Eliminating tuberculosis through better detection and treatment",
+        "Only online doctor booking",
+        "Stopping TB testing",
+        "Building sports complexes"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "anaemia_mukt_bharat",
+    "title": "Anaemia Mukt Bharat",
+    "department": "Health",
+    "one_liner": "India worked to reduce anaemia among women and children.",
+    "what": "A mission to reduce iron deficiency and anaemia.",
+    "why": "Many women and children suffered from weakness due to anaemia.",
+    "example": "Iron tablets distributed in schools and health centers.",
+    "pros": ["Better health", "Improved nutrition", "Supports children and women"],
+    "cons": ["Awareness issues", "Regular treatment needed"],
+    "before": "High anaemia levels",
+    "after": "Focused nutrition and iron support",
+    "quiz": {
+      "question": "Anaemia Mukt Bharat mainly supports...",
+      "options": [
+        "Iron and nutrition support to reduce anaemia",
+        "Only eye checkups",
+        "Only sports training",
+        "Road construction"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "e_sanjeevani",
+    "title": "eSanjeevani",
+    "department": "Health",
+    "one_liner": "People can consult doctors online from home.",
+    "what": "A government telemedicine platform for online doctor consultations.",
+    "why": "Many people lacked easy access to hospitals and doctors.",
+    "example": "A patient talks to a doctor through video call.",
+    "pros": ["Remote healthcare", "Saves travel time", "Accessible in villages"],
+    "cons": ["Needs internet", "Not suitable for emergencies"],
+    "before": "Doctor visits required physical travel",
+    "after": "Online medical consultation available",
+    "quiz": {
+      "question": "eSanjeevani allows people to...",
+      "options": [
+        "Consult doctors online",
+        "Buy only insurance",
+        "Avoid all hospitals forever",
+        "Get surgery at home"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "national_health_mission",
+    "title": "National Health Mission",
+    "department": "Health",
+    "one_liner": "Healthcare services improved in rural and urban areas.",
+    "what": "A mission strengthening public healthcare systems.",
+    "why": "Many regions lacked proper healthcare facilities.",
+    "example": "More health centers and medical staff added in villages.",
+    "pros": ["Better healthcare access", "Supports rural areas", "Improved facilities"],
+    "cons": ["Infrastructure gaps", "Staff shortages in some regions"],
+    "before": "Weak healthcare systems",
+    "after": "Expanded public healthcare",
+    "quiz": {
+      "question": "National Health Mission is mainly about...",
+      "options": [
+        "Strengthening public healthcare services",
+        "Only private hospital loans",
+        "Replacing all doctors with apps",
+        "Closing rural clinics"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "pradhan_mantri_surakshit_matritva_abhiyan",
+    "title": "Pradhan Mantri Surakshit Matritva Abhiyan",
+    "department": "Health",
+    "one_liner": "Pregnant women receive free health checkups and care.",
+    "what": "A program providing safe pregnancy care for women.",
+    "why": "Many pregnant women lacked proper medical support.",
+    "example": "Women receive free pregnancy checkups at hospitals.",
+    "pros": ["Safer pregnancies", "Free healthcare", "Maternal support"],
+    "cons": ["Limited awareness in remote areas", "Hospital crowding"],
+    "before": "Limited pregnancy healthcare access",
+    "after": "Better maternal care support",
+    "quiz": {
+      "question": "This scheme mainly helps with...",
+      "options": [
+        "Free maternal checkups and pregnancy care",
+        "Only child vaccination cards",
+        "Income tax exemptions",
+        "School admissions"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "pm_fasal_bima_yojana",
+    "title": "PM Fasal Bima Yojana",
+    "department": "Agriculture",
+    "one_liner": "Farmers get insurance support when crops are damaged.",
+    "what": "A crop insurance scheme protecting farmers from losses.",
+    "why": "Farmers faced heavy losses due to floods, droughts, and disasters.",
+    "example": "A farmer receives compensation after crop damage from heavy rain.",
+    "pros": ["Financial protection", "Reduces farmer stress", "Supports recovery"],
+    "cons": ["Claim delays", "Awareness issues"],
+    "before": "Farmers suffered full crop losses",
+    "after": "Insurance support available",
+    "quiz": {
+      "question": "PM Fasal Bima Yojana mainly gives farmers...",
+      "options": [
+        "Insurance support for crop loss",
+        "Free tractors for all",
+        "Guaranteed export prices",
+        "Only fertilizer discounts"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "paramparagat_krishi_vikas_yojana",
+    "title": "Paramparagat Krishi Vikas Yojana",
+    "department": "Agriculture",
+    "one_liner": "Farmers are encouraged to use organic farming methods.",
+    "what": "A scheme promoting chemical-free organic farming.",
+    "why": "Excessive chemical use harmed soil and health.",
+    "example": "Farmers grow vegetables using natural fertilizers.",
+    "pros": ["Healthy farming", "Better soil quality", "Eco-friendly"],
+    "cons": ["Lower initial production", "Takes time to adapt"],
+    "before": "Heavy chemical farming",
+    "after": "Growth of organic farming",
+    "quiz": {
+      "question": "This scheme focuses on...",
+      "options": [
+        "Organic and chemical-free farming",
+        "Urban housing",
+        "Only food exports",
+        "School scholarships"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "pm_krishi_sinchai_yojana",
+    "title": "PM Krishi Sinchai Yojana",
+    "department": "Agriculture",
+    "one_liner": "More farms got access to proper irrigation.",
+    "what": "A scheme improving water supply for agriculture.",
+    "why": "Many farms depended only on rainfall.",
+    "example": "Farmers use drip irrigation systems for crops.",
+    "pros": ["Water conservation", "Better crop growth", "Improved irrigation"],
+    "cons": ["Infrastructure cost", "Maintenance challenges"],
+    "before": "Limited irrigation facilities",
+    "after": "Improved water access for farms",
+    "quiz": {
+      "question": "PM Krishi Sinchai Yojana is mainly about...",
+      "options": [
+        "Improving irrigation and water access",
+        "Building airports",
+        "Only crop export targets",
+        "Insurance for livestock"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "kisan_credit_card",
+    "title": "Kisan Credit Card",
+    "department": "Agriculture",
+    "one_liner": "Farmers can get loans quickly for farming needs.",
+    "what": "A credit scheme helping farmers access low-interest loans.",
+    "why": "Farmers often borrowed money from private lenders at high interest.",
+    "example": "A farmer buys seeds and fertilizer using KCC loan.",
+    "pros": ["Easy credit access", "Lower interest rates", "Supports farming"],
+    "cons": ["Loan repayment pressure", "Limited awareness"],
+    "before": "Dependence on money lenders",
+    "after": "Bank loans easier for farmers",
+    "quiz": {
+      "question": "Kisan Credit Card helps farmers by providing...",
+      "options": [
+        "Quick low-interest farm credit",
+        "Only pension benefits",
+        "Free land ownership",
+        "Tax-free imports"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "operation_greens",
+    "title": "Operation Greens",
+    "department": "Agriculture",
+    "one_liner": "Government works to stabilize vegetable prices for farmers and consumers.",
+    "what": "A scheme focused on tomato, onion, and potato supply management.",
+    "why": "Prices of vegetables changed drastically due to supply issues.",
+    "example": "Farmers receive support during price crashes.",
+    "pros": ["Price stability", "Farmer support", "Reduces wastage"],
+    "cons": ["Limited crop focus", "Implementation challenges"],
+    "before": "Huge price fluctuations",
+    "after": "Better supply management",
+    "quiz": {
+      "question": "Operation Greens primarily targets...",
+      "options": [
+        "Price stability in key vegetables",
+        "Only dairy products",
+        "Forest plantation",
+        "Metro transport"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "agri_infrastructure_fund",
+    "title": "Agriculture Infrastructure Fund",
+    "department": "Agriculture",
+    "one_liner": "Money is provided to improve farming infrastructure.",
+    "what": "A fund supporting storage, warehouses, and farm infrastructure.",
+    "why": "Farmers lacked proper storage and transport facilities.",
+    "example": "A warehouse is built to store crops safely.",
+    "pros": ["Better storage", "Less crop wastage", "Improves supply chain"],
+    "cons": ["High setup costs", "Slow implementation"],
+    "before": "Poor storage facilities",
+    "after": "Modern agricultural infrastructure",
+    "quiz": {
+      "question": "This fund is used for...",
+      "options": [
+        "Farm infrastructure like storage and warehouses",
+        "Only school buildings",
+        "Tourism projects",
+        "Phone manufacturing incentives"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "national_beekeeping_honey_mission",
+    "title": "National Beekeeping and Honey Mission",
+    "department": "Agriculture",
+    "one_liner": "Farmers earn extra income through honey production.",
+    "what": "A scheme promoting beekeeping and honey farming.",
+    "why": "Farmers needed additional income opportunities.",
+    "example": "A farmer starts honey production with government support.",
+    "pros": ["Extra income", "Supports pollination", "Small business opportunity"],
+    "cons": ["Training needed", "Weather risks"],
+    "before": "Limited beekeeping support",
+    "after": "Growth in honey farming",
+    "quiz": {
+      "question": "National Beekeeping and Honey Mission supports...",
+      "options": [
+        "Honey production and additional farm income",
+        "Only fish farming",
+        "Urban transport",
+        "Textile exports"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "national_agriculture_market",
+    "title": "National Agriculture Market Reform",
+    "department": "Agriculture",
+    "one_liner": "Farmers can sell crops in wider markets more easily.",
+    "what": "A reform improving digital agricultural trading systems.",
+    "why": "Farmers had limited access to buyers and markets.",
+    "example": "Farmers compare crop prices online before selling.",
+    "pros": ["Better market access", "Fair pricing", "More transparency"],
+    "cons": ["Digital literacy required", "Internet dependency"],
+    "before": "Local market dependence",
+    "after": "Access to wider digital markets",
+    "quiz": {
+      "question": "National Agriculture Market reform helps farmers by...",
+      "options": [
+        "Expanding digital market access and price visibility",
+        "Stopping all mandi sales",
+        "Only exporting wheat",
+        "Replacing banks"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "rashtriya_gokul_mission",
+    "title": "Rashtriya Gokul Mission",
+    "department": "Agriculture",
+    "one_liner": "India works to improve cattle quality and milk production.",
+    "what": "A scheme supporting cattle breeding and dairy farming.",
+    "why": "Farmers needed better livestock productivity.",
+    "example": "Farmers receive support for improved cattle breeds.",
+    "pros": ["Higher milk production", "Better livestock health", "Supports dairy farmers"],
+    "cons": ["Training needed", "Long-term results"],
+    "before": "Lower cattle productivity",
+    "after": "Improved dairy farming support",
+    "quiz": {
+      "question": "Rashtriya Gokul Mission is mainly for...",
+      "options": [
+        "Improving cattle breeds and dairy output",
+        "Marine fishing only",
+        "Urban transport",
+        "School nutrition"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "sub_mission_on_agricultural_mechanization",
+    "title": "Sub Mission on Agricultural Mechanization",
+    "department": "Agriculture",
+    "one_liner": "Farmers get support to use modern farming machines.",
+    "what": "A scheme encouraging farm mechanization with equipment support.",
+    "why": "Manual farming was time-consuming and difficult.",
+    "example": "Farmers buy tractors and harvesters with subsidies.",
+    "pros": ["Faster farming", "Higher efficiency", "Reduces manual labor"],
+    "cons": ["Machine costs", "Maintenance expenses"],
+    "before": "Mostly manual farming",
+    "after": "Use of modern farm equipment",
+    "quiz": {
+      "question": "This sub-mission helps farmers with...",
+      "options": [
+        "Modern machinery and mechanization support",
+        "Only organic certification",
+        "Urban job placement",
+        "Health insurance only"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "startup_india",
+    "title": "Startup India",
+    "department": "Employment",
+    "one_liner": "India encouraged young people to build startups and create jobs.",
+    "what": "A program supporting startups with funding and easier rules.",
+    "why": "Many young entrepreneurs struggled to start businesses.",
+    "example": "A student launches a tech startup with government support.",
+    "pros": ["Encourages innovation", "Creates jobs", "Supports entrepreneurs"],
+    "cons": ["Startup failure risk", "Funding competition"],
+    "before": "Difficult startup environment",
+    "after": "Better support for startups",
+    "quiz": {
+      "question": "Startup India mainly supports...",
+      "options": [
+        "Young entrepreneurs and startup growth",
+        "Only government jobs",
+        "Closing small businesses",
+        "Importing all products"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "make_in_india",
+    "title": "Make in India",
+    "department": "Employment",
+    "one_liner": "India promoted manufacturing to create more jobs.",
+    "what": "A campaign encouraging companies to manufacture in India.",
+    "why": "India wanted more factories and employment opportunities.",
+    "example": "Phone companies open factories in India.",
+    "pros": ["More jobs", "Boosts manufacturing", "Economic growth"],
+    "cons": ["Environmental concerns", "Uneven industrial growth"],
+    "before": "Lower manufacturing focus",
+    "after": "More local production and jobs",
+    "quiz": {
+      "question": "Make in India aims to...",
+      "options": [
+        "Increase local manufacturing and employment",
+        "Stop industrial growth",
+        "Shift all factories abroad",
+        "Only expand tourism"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "pm_kaushal_vikas_yojana",
+    "title": "PM Kaushal Vikas Yojana",
+    "department": "Employment",
+    "one_liner": "Youth receive free training for job-ready skills.",
+    "what": "A skill training program for different industries.",
+    "why": "Many young people lacked employable skills.",
+    "example": "Students learn digital marketing or electrician work.",
+    "pros": ["Skill development", "Better job opportunities", "Free training"],
+    "cons": ["Job placement challenges", "Training quality varies"],
+    "before": "Limited skill training access",
+    "after": "Structured vocational training",
+    "quiz": {
+      "question": "PMKVY is best known for...",
+      "options": [
+        "Free vocational skill training for youth",
+        "Only pension payments",
+        "School textbook distribution",
+        "Crop insurance claims"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "stand_up_india_employment",
+    "title": "Stand-Up India",
+    "department": "Employment",
+    "one_liner": "Women and SC/ST entrepreneurs receive business support.",
+    "what": "A scheme offering loans to underrepresented entrepreneurs.",
+    "why": "Many people lacked access to business funding.",
+    "example": "A woman starts a clothing business with a government loan.",
+    "pros": ["Inclusive growth", "Supports entrepreneurship", "Creates jobs"],
+    "cons": ["Business risks", "Loan repayment pressure"],
+    "before": "Limited entrepreneurship support",
+    "after": "Better access to startup funding",
+    "quiz": {
+      "question": "This Stand-Up India entry focuses on...",
+      "options": [
+        "Loans for women and SC/ST entrepreneurs",
+        "Only IT internships",
+        "Food subsidy cards",
+        "Import tax cuts"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "atma_nirbhar_bharat_rozgar_yojana",
+    "title": "Atmanirbhar Bharat Rozgar Yojana",
+    "department": "Employment",
+    "one_liner": "Businesses received support to hire more workers.",
+    "what": "A scheme encouraging companies to create jobs after COVID-19.",
+    "why": "Many people lost jobs during the pandemic.",
+    "example": "A company hires new employees with government support.",
+    "pros": ["Job creation", "Supports businesses", "Economic recovery"],
+    "cons": ["Temporary support", "Limited awareness"],
+    "before": "High unemployment after pandemic",
+    "after": "Hiring support for companies",
+    "quiz": {
+      "question": "Atmanirbhar Bharat Rozgar Yojana mainly helped...",
+      "options": [
+        "Post-COVID hiring and job recovery",
+        "Only foreign student visas",
+        "Replacing firms with automation",
+        "Stopping recruitment"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "deen_dayal_upadhyaya_gramin_kaushalya_yojana",
+    "title": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana",
+    "department": "Employment",
+    "one_liner": "Rural youth receive training for jobs and careers.",
+    "what": "A rural skill development and employment program.",
+    "why": "Many rural youth lacked job opportunities.",
+    "example": "Village students get hospitality and IT training.",
+    "pros": ["Rural employment", "Skill training", "Better opportunities"],
+    "cons": ["Placement challenges", "Awareness issues"],
+    "before": "Limited rural career options",
+    "after": "Structured rural job training",
+    "quiz": {
+      "question": "DDU-GKY is designed for...",
+      "options": [
+        "Training rural youth for jobs",
+        "Urban metro planning",
+        "Only pension disbursal",
+        "Hospital management"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "production_linked_incentive_jobs",
+    "title": "Production Linked Incentive Scheme",
+    "department": "Employment",
+    "one_liner": "Manufacturing growth created more employment opportunities.",
+    "what": "A scheme rewarding companies for increasing production in India.",
+    "why": "India wanted more factories and job creation.",
+    "example": "Electronics factories hire more workers.",
+    "pros": ["Creates jobs", "Boosts economy", "Supports industries"],
+    "cons": ["Benefits bigger companies more", "High government spending"],
+    "before": "Lower manufacturing employment",
+    "after": "More factory jobs",
+    "quiz": {
+      "question": "PLI (jobs view) contributes to employment by...",
+      "options": [
+        "Incentivizing production growth that adds factory jobs",
+        "Reducing all industrial output",
+        "Banning manufacturing units",
+        "Replacing workers with no transition plans"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "garib_kalyan_rojgar_abhiyan",
+    "title": "Garib Kalyan Rojgar Abhiyan",
+    "department": "Employment",
+    "one_liner": "Migrant workers received temporary employment support.",
+    "what": "A program providing jobs in rural areas during COVID-19.",
+    "why": "Many migrant workers lost jobs and returned to villages.",
+    "example": "Workers get employment in village infrastructure projects.",
+    "pros": ["Supports migrants", "Rural employment", "Crisis relief"],
+    "cons": ["Temporary jobs", "Limited duration"],
+    "before": "Few local jobs during crisis",
+    "after": "Emergency rural employment support",
+    "quiz": {
+      "question": "Garib Kalyan Rojgar Abhiyan was launched mainly for...",
+      "options": [
+        "Temporary rural jobs during the COVID crisis",
+        "Permanent government posts for all",
+        "Urban-only gig work",
+        "Overseas recruitment"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "digital_india_bpo_scheme",
+    "title": "India BPO Promotion Scheme",
+    "department": "Employment",
+    "one_liner": "More IT and call center jobs were created in smaller cities.",
+    "what": "A scheme promoting BPO and IT jobs outside metro cities.",
+    "why": "Most tech jobs were concentrated in big cities.",
+    "example": "A call center opens in a tier-2 city creating jobs.",
+    "pros": ["Regional development", "More tech jobs", "Supports small cities"],
+    "cons": ["Internet dependency", "Skill requirements"],
+    "before": "IT jobs mostly in metro cities",
+    "after": "More opportunities in smaller cities",
+    "quiz": {
+      "question": "India BPO Promotion Scheme aims to...",
+      "options": [
+        "Expand BPO/IT jobs beyond major metro cities",
+        "Close all call centers",
+        "Stop digital services",
+        "Shift all jobs overseas"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "national_apprenticeship_promotion_scheme",
+    "title": "National Apprenticeship Promotion Scheme",
+    "department": "Employment",
+    "one_liner": "Students gain real work experience while learning.",
+    "what": "A scheme supporting apprenticeships and practical training.",
+    "why": "Students lacked industry experience after studies.",
+    "example": "A student trains in a company before full-time employment.",
+    "pros": ["Practical experience", "Industry exposure", "Better employability"],
+    "cons": ["Limited stipend", "Training quality varies"],
+    "before": "Mostly theoretical education",
+    "after": "More hands-on work experience",
+    "quiz": {
+      "question": "NAPS mainly improves...",
+      "options": [
+        "Apprenticeship and practical work exposure",
+        "Only classroom theory",
+        "Retirement planning",
+        "Crop pricing"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "upi",
+    "title": "Unified Payments Interface (UPI)",
+    "department": "Digital India",
+    "one_liner": "India turned smartphones into digital wallets.",
+    "what": "A real-time digital payment system linked to bank accounts.",
+    "why": "Online money transfers were slow and complicated.",
+    "example": "A student scans a QR code to pay for food instantly.",
+    "pros": ["Fast payments", "Easy to use", "Cashless transactions"],
+    "cons": ["Needs internet", "Cyber fraud risks"],
+    "before": "Cash and bank details needed",
+    "after": "Instant QR-based payments",
+    "quiz": {
+      "question": "UPI made payments easier by enabling...",
+      "options": [
+        "Instant bank-to-bank payments using apps/QR",
+        "Only card swipes at ATMs",
+        "Paper cheque processing",
+        "Cash-only purchases"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "cowin_platform",
+    "title": "CoWIN Platform",
+    "department": "Digital India",
+    "one_liner": "Vaccination booking became digital and organized.",
+    "what": "An online platform for vaccine registration and certificates.",
+    "why": "Managing millions of vaccine appointments manually was difficult.",
+    "example": "People booked COVID vaccines online using mobile phones.",
+    "pros": ["Easy booking", "Digital certificates", "Efficient tracking"],
+    "cons": ["Internet dependency", "Technical glitches during rush"],
+    "before": "Manual vaccination records",
+    "after": "Digital vaccine management",
+    "quiz": {
+      "question": "CoWIN was mainly used for...",
+      "options": [
+        "Online vaccine booking and certificate management",
+        "Online shopping carts",
+        "School exam checking",
+        "Rail ticket only"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "umang_app",
+    "title": "UMANG App",
+    "department": "Digital India",
+    "one_liner": "Many government services became available in one app.",
+    "what": "A mobile app providing access to government services.",
+    "why": "People had to visit multiple websites and offices earlier.",
+    "example": "Users check PF balance and pay bills through one app.",
+    "pros": ["Convenient", "Many services together", "Saves time"],
+    "cons": ["App complexity", "Requires smartphone"],
+    "before": "Different portals for services",
+    "after": "Single app access",
+    "quiz": {
+      "question": "UMANG helps users by offering...",
+      "options": [
+        "Many government services in one app",
+        "Only gaming services",
+        "Private bank loans only",
+        "Offline-only forms"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "aadhaar_enabled_payment_system",
+    "title": "Aadhaar Enabled Payment System",
+    "department": "Digital India",
+    "one_liner": "People can access banking services using Aadhaar.",
+    "what": "A payment system using Aadhaar authentication.",
+    "why": "Many rural users lacked easy banking access.",
+    "example": "Villagers withdraw money using fingerprint authentication.",
+    "pros": ["Easy banking", "Supports rural areas", "No debit card needed"],
+    "cons": ["Biometric errors", "Privacy concerns"],
+    "before": "Traditional banking dependency",
+    "after": "Aadhaar-based banking access",
+    "quiz": {
+      "question": "AePS mainly enables...",
+      "options": [
+        "Basic banking using Aadhaar authentication",
+        "International stock trading",
+        "Passport renewal only",
+        "Cashback on shopping apps"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "government_e_marketplace",
+    "title": "Government e-Marketplace (GeM)",
+    "department": "Digital India",
+    "one_liner": "Government purchases became more digital and transparent.",
+    "what": "An online platform for government procurement.",
+    "why": "Traditional procurement processes were slow and less transparent.",
+    "example": "Small businesses sell products directly to government departments.",
+    "pros": ["Transparency", "Business opportunities", "Faster procurement"],
+    "cons": ["Technical learning curve", "Digital dependency"],
+    "before": "Offline procurement systems",
+    "after": "Online government marketplace",
+    "quiz": {
+      "question": "GeM is used for...",
+      "options": [
+        "Online government buying and selling",
+        "Only school admissions",
+        "Rail route tracking",
+        "Hospital appointments only"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "open_network_for_digital_commerce",
+    "title": "Open Network for Digital Commerce (ONDC)",
+    "department": "Digital India",
+    "one_liner": "Small businesses can compete more easily online.",
+    "what": "An open digital commerce network connecting buyers and sellers.",
+    "why": "Large e-commerce platforms dominated online shopping.",
+    "example": "A local shop lists products on multiple apps through ONDC.",
+    "pros": ["Supports small businesses", "More competition", "Open platform"],
+    "cons": ["Still developing", "Technical adoption challenges"],
+    "before": "Dependence on large e-commerce apps",
+    "after": "Open digital shopping ecosystem",
+    "quiz": {
+      "question": "ONDC is designed to...",
+      "options": [
+        "Create an open network for online buying/selling",
+        "Replace all kirana stores",
+        "Ban digital payments",
+        "Run only food delivery"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "mygov_platform",
+    "title": "MyGov Platform",
+    "department": "Digital India",
+    "one_liner": "Citizens can directly share ideas with the government online.",
+    "what": "A digital platform for public participation and feedback.",
+    "why": "People had limited direct interaction with government initiatives.",
+    "example": "Citizens participate in online surveys and campaigns.",
+    "pros": ["Citizen participation", "Transparency", "Direct engagement"],
+    "cons": ["Limited awareness", "Digital access needed"],
+    "before": "Less public interaction",
+    "after": "Online citizen engagement",
+    "quiz": {
+      "question": "MyGov helps by enabling...",
+      "options": [
+        "Citizen feedback and participation online",
+        "Only tax collection",
+        "Private social media ads",
+        "Hospital billing"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "national_digital_communications_policy",
+    "title": "National Digital Communications Policy",
+    "department": "Digital India",
+    "one_liner": "India focused on improving internet and communication systems.",
+    "what": "A policy promoting better telecom and internet connectivity.",
+    "why": "Digital growth required stronger communication infrastructure.",
+    "example": "Expansion of high-speed internet services in more areas.",
+    "pros": ["Better connectivity", "Supports digital economy", "Improved internet access"],
+    "cons": ["Infrastructure costs", "Rural implementation challenges"],
+    "before": "Slower digital expansion",
+    "after": "Improved communication infrastructure",
+    "quiz": {
+      "question": "This policy mainly supports...",
+      "options": [
+        "Stronger telecom and internet infrastructure",
+        "Only offline services",
+        "Reducing network expansion",
+        "Closing rural towers"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "cyber_surakshit_bharat",
+    "title": "Cyber Surakshit Bharat",
+    "department": "Digital India",
+    "one_liner": "India increased focus on cybersecurity awareness.",
+    "what": "A program promoting cyber safety and digital security.",
+    "why": "Cyber attacks and online fraud cases were increasing.",
+    "example": "Government employees receive cybersecurity training.",
+    "pros": ["Improved cyber awareness", "Safer digital systems", "Security training"],
+    "cons": ["Constantly evolving threats", "Awareness gaps"],
+    "before": "Limited cybersecurity focus",
+    "after": "Stronger cyber awareness programs",
+    "quiz": {
+      "question": "Cyber Surakshit Bharat focuses on...",
+      "options": [
+        "Cybersecurity awareness and safer digital practices",
+        "Only hardware manufacturing",
+        "School sports events",
+        "Road safety training"
+      ],
+      "correctIndex": 0
+    }
+  },
+  {
+    "id": "national_digital_literacy_mission",
+    "title": "National Digital Literacy Mission",
+    "department": "Digital India",
+    "one_liner": "More people learned basic digital and computer skills.",
+    "what": "A mission teaching digital literacy across India.",
+    "why": "Many people lacked basic technology knowledge.",
+    "example": "Villagers learn how to use smartphones and online services.",
+    "pros": ["Improves digital skills", "Supports inclusion", "Better access to services"],
+    "cons": ["Training challenges", "Internet access issues"],
+    "before": "Low digital awareness",
+    "after": "More digitally skilled citizens",
+    "quiz": {
+      "question": "National Digital Literacy Mission aims to...",
+      "options": [
+        "Teach basic digital skills to more citizens",
+        "Limit internet usage",
+        "Replace schools with apps",
+        "Ban smartphone learning"
+      ],
+      "correctIndex": 0
+    }
+  }
+]
